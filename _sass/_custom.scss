@@ -40,3 +40,15 @@ a {
 }
 /* remove margin in alerts */
 .alert p:last-of-type { margin-bottom: 0; }
+/* markdown tables */
+table {
+    border-spacing: 0;
+    border-collapse: collapse;
+    width: 100%;
+    margin-bottom: 1rem;
+}
+td {
+    padding: .7rem;
+    border: 1px solid #dee2e6;
+    box-sizing: border-box;
+}
