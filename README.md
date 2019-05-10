@@ -10,3 +10,7 @@
     - [URLs](https://evanwill.github.io/hey-api/content/1-urls.html)
     - Chronam with [GET](https://evanwill.github.io/hey-api/content/2-get.html)
 - OpenRefine + APIs
+
+refine fetch accept headers
+https://github.com/LibraryOfCongress/data-exploration/blob/master/ChronAm%20API%20Samples.ipynb
+https://libraryofcongress.github.io/data-exploration/requests.html

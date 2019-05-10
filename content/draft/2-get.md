@@ -1,6 +1,6 @@
 ---
 title: GET
-nav: true
+#nav: true
 ---
 
 # GET

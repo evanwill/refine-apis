@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 1-About
-nav: true
+#nav: true
 ---
 
 # What is OpenRefine?
