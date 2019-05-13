@@ -5,7 +5,7 @@ nav: true
 
 # Prep
 
-For this workshop you will need a web browser and OpenRefine. 
+For this workshop you will need a web browser (Firefox or Chrome) and OpenRefine. 
 
 {% capture text %}
 ##### 1. Install Java 
@@ -34,3 +34,21 @@ Unzip the OpenRefine package to a permanent location, for example in your User d
 {% include card.md text=text header="Setup OpenRefine" %}
 
 Full documentation is available on the [official wiki](https://github.com/OpenRefine/OpenRefine/wiki/){:target="_blank"}.
+
+# Use Refine
+
+Since Refine is a Java application, starting is a bit different than normal GUI programs. 
+There is two parts to Refine: 1. a terminal window running the application in Java, 2. a GUI interface which is a "web page" in your browser.
+
+1. **Start the Java app:** Opening Refine differs depending on your OS, but in all cases the app will start running in a terminal window which you can ignore and minimize (but do not close!).
+    - *Windows:* double click `openrefine.exe` (You may get a warning that the publisher could not be verified, ignore it, and click *Run*. Once open, pin the Refine icon to your taskbar for easy access in the future). 
+    - *Mac:* click the Refine icon in the applications folder. 
+    - *Linux:* in the OpenRefine directory open terminal and type `./refine`.
+2. **Use the GUI:** Once Refine is running in a terminal, your default web browser should automatically open with the interface. If it does not open automatically or you close the browser tab, find the GUI by typing <http://127.0.0.1:3333> or `localhost:3333` in your address bar. 
+3. **Shut down:** close any browser tabs with the GUI, then stop the host terminal window with `Ctrl+C` (or `Command-Q` on Mac). This will ensure any open projects are saved.
+
+{% include alert.md text="The user interface is rendered by your web browser, but Refine is not a web application. 
+Although it uses the term "upload" and "download", no information is sent online and no internet connection is necessary.
+For best results, use Firefox, Chrome, or Chromium browser." color="primary" %}
+
+{% include figure.html img="openrefine.png" alt="OpenRefine terminal and GUI" width="100%" %}

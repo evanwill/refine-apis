@@ -14,3 +14,8 @@
 refine fetch accept headers
 https://github.com/LibraryOfCongress/data-exploration/blob/master/ChronAm%20API%20Samples.ipynb
 https://libraryofcongress.github.io/data-exploration/requests.html
+
+https://evanwill.github.io/_drafts/notes/open-refine-metadata.html
+
+cdm api, `/bl/dmwebservices/`
+https://www.oclc.org/support/services/contentdm/help/customizing-website-help/other-customizations/contentdm-api-reference.en.html
