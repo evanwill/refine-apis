@@ -1,21 +1,9 @@
 # refine-apis
 
-- Overview of collections as data
-- Introduce OpenRefine:
-    - [About Refine](https://evanwill.github.io/clean-your-data/1-about.html)
-    - [Messy data](https://evanwill.github.io/clean-your-data/2-messy.html)
-    - [Install](https://evanwill.github.io/clean-your-data/3-start.html)
-- Introduce APIs:
-    - [Intro](https://evanwill.github.io/hey-api/content/0-intro.html)
-    - [URLs](https://evanwill.github.io/hey-api/content/1-urls.html)
-    - Chronam with [GET](https://evanwill.github.io/hey-api/content/2-get.html)
-- OpenRefine + APIs
+A basic intro to OpenRefine and fetching data from web APIs for digital humanities thinking of "collections as data".
 
-refine fetch accept headers
-https://github.com/LibraryOfCongress/data-exploration/blob/master/ChronAm%20API%20Samples.ipynb
-https://libraryofcongress.github.io/data-exploration/requests.html
+Based on my other workshops:
 
-https://evanwill.github.io/_drafts/notes/open-refine-metadata.html
-
-cdm api, `/bl/dmwebservices/`
-https://www.oclc.org/support/services/contentdm/help/customizing-website-help/other-customizations/contentdm-api-reference.en.html
+- [clean your data](https://evanwill.github.io/clean-your-data/)
+- [Hey API!](https://evanwill.github.io/hey-api/)
+- [Fetching and Parsing Data from the Web with OpenRefine](https://programminghistorian.org/en/lessons/fetch-and-parse-data-with-openrefine)
