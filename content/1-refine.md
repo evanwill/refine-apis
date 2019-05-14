@@ -28,6 +28,7 @@ Refine can handle all sorts of data from all sorts of sources:
 - **Import sources:** local file, archive (zip), URL, clipboard, database, or Google Sheets
 - **Output formats:** TSV, CSV, HTML, Excel, ODF spreadsheet, SQL, Wikidata, RDF schema, or custom template
 
+The data is imported *without* changing the original source--a new copy is saved in an optimized format in the Refine working directory.
 Once imported, the data is represented as tabular, using this basic terminology: 
 
 {% include figure.html img="table.png" alt="table parts" width="100%" %}
