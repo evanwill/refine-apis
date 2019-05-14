@@ -3,11 +3,12 @@ title: Home
 layout: default
 ---
 
+{% include figure.html img="jordan-harrison-1208586-unsplash.jpg" alt="ethernet cables" %}
+
 # Refine APIs!
 
-{% include figure.html img="jordan-harrison-1208586-unsplash.jpg" alt="ethernet cables" width="75%" %}
-
-A basic intro to OpenRefine and fetching data from web APIs for digital humanities thinking of "collections as data".
+A basic intro to OpenRefine and fetching data from web APIs for digital humanities, while thinking of "collections as data".
+"Collections as data" are "readily open to computation", [The Santa Barbara Statement on Collections as Data](https://collectionsasdata.github.io/statement/).
 
 {% include toc.html %}
 
