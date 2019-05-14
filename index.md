@@ -7,8 +7,7 @@ layout: default
 
 # Refine APIs!
 
-A basic intro to OpenRefine and fetching data from web APIs for digital humanities, while thinking of "collections as data".
-"Collections as data" are "readily open to computation", [The Santa Barbara Statement on Collections as Data](https://collectionsasdata.github.io/statement/).
+A basic intro to OpenRefine and fetching data from web APIs for digital humanities, while thinking of "collections as data", "readily open to computation", [The Santa Barbara Statement on Collections as Data](https://collectionsasdata.github.io/statement/).
 
 {% include toc.html %}
 
